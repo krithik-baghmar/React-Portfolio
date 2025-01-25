@@ -1,3 +1,3 @@
 export const getImageUrl = (path) => {
-    return new URL(`assests/${path}`, import.meta.url).href;
+    return new URL(`/assets/${path}`, 'http://localhost:5173/').href;
 }
