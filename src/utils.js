@@ -1,3 +1,4 @@
+const liveURL = import.meta.url;
 export const getImageUrl = (path) => {
-    return new URL(`/assets/${path}`, 'http://localhost:5173/').href;
+    return new URL(`/assets/${path}`, liveURL).href;
 }
