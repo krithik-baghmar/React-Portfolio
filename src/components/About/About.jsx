@@ -11,21 +11,21 @@ const About = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon"/>
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
-              <p>I'm a frontend developer with experience in building responsive and optimized sites.</p>
+              <p>I have 3+ years of experience building dynamic and responsive web applications using Angular, React, and Next.js, ensuring smooth user interactions.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon"/>
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>I have experience developing fast and optimised back-end systems and APIs</p>
+              <h3>Performance & Optimization</h3>
+              <p>I apply best practices like lazy loading, efficient state management, and server-side rendering to enhance web performance and user experience.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon"/>
+            <img src={getImageUrl("about/uiIcon.png")} alt="UI icon"/>
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
-              <p>I have designed multiple landing pages and have created design systems as well</p>
+              <h3>UI/UX Focused</h3>
+              <p>I create clean, modern, and accessible user interfaces while ensuring cross-browser compatibility and responsiveness.</p>
             </div>
           </li>
         </ul>

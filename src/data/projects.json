@@ -1,26 +1,23 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Emotion Based Music Player",
+      "imageSrc": "projects/emmusic.png",
+      "description": "",
+      "skills": ["HTML", "CSS", "JS", "Python", "Dart", "Flutter"],
+      "source": "https://github.com/krithik-baghmar/Emotion-Based-Music-Player"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "College Attendance Management System",
+      "imageSrc": "projects/college.png",
+      "description": "",
+      "skills": ["HTML", "CSS", "JS", "JSP", "Java", "MySQL"],
+      "source": "https://github.com/krithik-baghmar/College-Attendance-Management-System"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Amazon Clone By Angular 10",
+      "imageSrc": "projects/Amazon.png",
+      "description": "",
+      "skills": ["HTML", "CSS", "JS", "Angular", "Firebase", "Typescript"],
+      "source": "https://github.com/krithik-baghmar/My-Amazon-Clone"
     }
   ]

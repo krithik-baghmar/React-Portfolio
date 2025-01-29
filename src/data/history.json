@@ -1,29 +1,26 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Associate Software Engineer",
+      "organisation": "Sigma Infosolutions Solutions",
+      "startDate": "Aug, 2023",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Working on React & Next.js", "Developing web applications and portals", "Learning and working on ROR projects"],
+      "imageSrc": "history/sigma.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "Research Analyst",
+      "organisation": "Arcgate Technologies LLP",
+      "startDate": "Dec, 2022",
+      "endDate": "Jul, 2023",
+      "experiences": ["Worked on data analysis and G-Suite", "Helped in research"],
+      "imageSrc": "history/arcgate.png"
     },
     {
       "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+      "organisation": "PySphere Technologies LLP",
+      "startDate": "Sep, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Worked on Angular", "Developed websites"],
+      "imageSrc": "history/PySphere.png"
     }
   ]

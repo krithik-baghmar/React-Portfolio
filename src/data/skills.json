@@ -8,23 +8,35 @@
       "imageSrc": "skills/css.png"
     },
     {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
       "title": "React",
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
+      "title": "Next",
+      "imageSrc": "skills/next.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "Angular",
+      "imageSrc": "skills/angular.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Tailwind",
+      "imageSrc": "skills/tailwind.png"
+    },
+    {
+      "title": "Ruby",
+      "imageSrc": "skills/ruby.png"
+    },
+    {
+      "title": "Rails",
+      "imageSrc": "skills/rails.png"
     }
   ]

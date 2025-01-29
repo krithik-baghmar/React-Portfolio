@@ -23,7 +23,7 @@
 }
 
 .skills {
-    width: 45%;
+    width: 35%;
     display: flex;
     flex-wrap: wrap;
     gap: 37px;
@@ -57,7 +57,7 @@
 }
 
 .history {
-    width: 45%;
+    width: 55%;
     display: flex;
     flex-direction: column;
     gap: 40px;
